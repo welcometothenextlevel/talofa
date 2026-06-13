@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="40" viewBox="0 0 360 40">
+  <rect width="360" height="40" fill="#102538"/>
+  <g fill="#42c7cf" stroke="#42c7cf" stroke-linejoin="round">
+    <!-- Eight-petal flower taken from the visual language of the tattooed hands. -->
+    <g transform="translate(34 20)">
+      <ellipse rx="2.8" ry="8" transform="rotate(0)"/><ellipse rx="2.8" ry="8" transform="rotate(45)"/>
+      <ellipse rx="2.8" ry="8" transform="rotate(90)"/><ellipse rx="2.8" ry="8" transform="rotate(135)"/>
+      <circle r="2.2" fill="#102538" stroke="none"/>
+    </g>
+    <g transform="translate(214 20)">
+      <ellipse rx="2.8" ry="8" transform="rotate(0)"/><ellipse rx="2.8" ry="8" transform="rotate(45)"/>
+      <ellipse rx="2.8" ry="8" transform="rotate(90)"/><ellipse rx="2.8" ry="8" transform="rotate(135)"/>
+      <circle r="2.2" fill="#102538" stroke="none"/>
+    </g>
+    <!-- Filled triangle bands. -->
+    <path d="M58 29 63 20l5 9zm12 0 5-9 5 9zm12 0 5-9 5 9zm12 0 5-9 5 9zm12 0 5-9 5 9zm132 0 5-9 5 9zm12 0 5-9 5 9zm12 0 5-9 5 9zm12 0 5-9 5 9zm12 0 5-9 5 9z" stroke="none"/>
+  </g>
+  <!-- Framed triangular panels and diagonal section lines. -->
+  <g fill="none" stroke="#42c7cf" stroke-width="2">
+    <path d="M0 4h360M0 36h360" opacity=".65"/>
+    <path d="m122 33 16-26 16 26zm5-4 11-17 11 17zM302 33l16-26 16 26zm5-4 11-17 11 17z"/>
+    <path d="M51 7h65l-9 10H57zm180 0h65l-9 10h-50z"/>
+    <path d="m160 6 12 28m-5-28 12 28m-5-28 12 28m-5-28 12 28" opacity=".9"/>
+    <path d="m340 6 12 28m-5-28 12 28" opacity=".9"/>
+  </g>
+  <!-- Small inset triangles from the hand panels. -->
+  <g fill="#42c7cf">
+    <path d="m61 10 4 6h-8zm13 0 4 6h-8zm13 0 4 6h-8zm13 0 4 6h-8zm143 0 4 6h-8zm13 0 4 6h-8zm13 0 4 6h-8zm13 0 4 6h-8z"/>
+  </g>
+</svg>
