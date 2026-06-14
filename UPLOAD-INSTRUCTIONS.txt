@@ -7,7 +7,7 @@ TALOFA GITHUB PAGES UPLOAD
 5. In Settings > Pages, use main / (root).
 
 Important before launch:
-- Replace [PHONE], [SERVICE_AREA], [OPERATING_HOURS],
+- Replace [SERVICE_AREA], [OPERATING_HOURS],
   [REGISTRATION_LINE], and [FOUNDER_STORY].
 - The contact form opens the visitor's email application and sends to info@talofasupportservices.com.au.
 - CNAME connects the repository to talofasupportservices.com.au.
