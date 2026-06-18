@@ -7,7 +7,7 @@ TALOFA GITHUB PAGES UPLOAD
 5. In Settings > Pages, use main / (root).
 
 Important before launch:
-- Replace [SERVICE_AREA], [OPERATING_HOURS],
+- Replace Melbourne’s northern and western suburbs, with support available across greater Melbourne, 24/7,
   [REGISTRATION_LINE], and [FOUNDER_STORY].
 - The contact form opens the visitor's email application and sends to info@talofasupportservices.com.au.
 - CNAME connects the repository to talofasupportservices.com.au.
